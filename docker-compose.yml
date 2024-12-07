@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  nutdev:
+    build:
+      context: ./
+      target: main
+      dockerfile: Dockerfile
+    volumes:
+        - .:/app
+        - /app/node_modules
+        - /app/.next
+    environment:
+      - NEXT_PUBLIC_RECAPTCHA_SITE_KEY=...
+      - RECAPTCHA_SECRET_KEY=...
+    ports:
+      - "..."
