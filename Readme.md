@@ -2,13 +2,11 @@
 
 This repository demonstrates the implementation of a robust CI/CD pipeline for a **Next.js** project using **Docker**. The setup ensures seamless building, testing, and deployment of the application, leveraging containerized environments for consistency and reliability.
 
-## 📞 Contact
+## 📩 Contact Me on Telegram
 
 For inquiries, collaborations, or support, feel free to reach out:
 
-- 🎮 Discord: `cashblaze127`
-- 📱 Telegram: @cashblaze127
-- 💼 LinkedIn: [Keyvel Bitcoin Solana](https://www.linkedin.com/in/keyvel-bitcoin-solana)
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram&style=for-the-badge)](https://t.me/cashblaze127)
 
 ## 📂 Project Files
 
